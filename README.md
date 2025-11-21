@@ -15,7 +15,8 @@ A lightweight tool to create a virtual "Sidekick Display" on Arch Linux (Hyprlan
 
 ## Installation
 Run this command to install the required tools:
-
+undefined
+yay -S wayvnc novnc websockify
 
 
 ## Usage
